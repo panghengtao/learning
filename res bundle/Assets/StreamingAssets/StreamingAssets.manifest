@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2347136464
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: learn.theend
+      Dependencies: {}
